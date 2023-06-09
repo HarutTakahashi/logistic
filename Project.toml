@@ -1,0 +1,8 @@
+name = "logistic"
+uuid = "dbe7a732-df87-4de6-9c7d-773839b19df6"
+authors = ["Haruto Takahashi <h.takahashi.269@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
